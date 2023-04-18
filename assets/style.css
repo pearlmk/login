@@ -1,0 +1,44 @@
+body{
+    margin: 0;
+    bottom: 0;
+    box-sizing: border-box;
+}
+
+.form-check-input{
+    border: none;
+   
+}
+.para{
+    text-align: justify !important;
+}
+
+.nav:hover{
+    transform: scalex(1.2);
+    transition: all ease;
+}
+.fa-instagram:hover{
+    color: red !important;
+    transform: scale(1.4);
+    transition: all ease;
+}
+
+.fa-facebook:hover{
+    color: blue !important;
+    transform: scale(1.4);
+    transition: all ease;
+}
+.fa-twitter:hover{
+    color: skyblue !important;
+    transform: scale(1.4);
+    transition: all ease;
+}
+.fa-whatsapp:hover{
+    color: green !important;
+    transform: scale(1.4);
+    transition: all ease;
+}
+.fa-phone:hover{
+    color: #000000 !important;
+    transform: scale(1.4);
+    transition: all ease;
+}
