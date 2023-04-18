@@ -1,6 +1,6 @@
 import React from "react";
 
-const contect = () =>{
+const Contect = () =>{
     return(
         <div className="ui raised very padded text container segment "style={{marginTop:'80px'}}>
             <h1>about us</h1>
@@ -14,4 +14,4 @@ No matter what you want to reword or why, the easiest, fastest way to paraphrase
 }
 
 
-export default contect;
+export default Contect;
